@@ -1,0 +1,62 @@
+[
+  {
+    "id": "delhi",
+    "name": "Delhi",
+    "title": "The Heart of India",
+    "description": "Experience the blend of ancient history and modern India in the capital city.",
+    "image": "https://indiatravel.com/wp-content/uploads/2025/03/Golden-Triangle-Tour.webp",
+    "attractions": ["Red Fort", "Qutub Minar", "India Gate", "Lotus Temple", "Akshardham", "Chandni Chowk"],
+    "bestTime": "October to March",
+    "page": "delhi.html"
+  },
+  {
+    "id": "kerala",
+    "name": "Kerala",
+    "title": "God's Own Country",
+    "description": "Backwaters, beaches, and spice plantations await in this tropical paradise.",
+    "image": "https://indiatravel.com/wp-content/uploads/2025/03/Kerala-Tour-India-Tour-India-Travel.webp",
+    "attractions": ["Alleppey Backwaters", "Munnar Hill Station", "Kovalam Beach", "Periyar Wildlife", "Fort Kochi"],
+    "bestTime": "October to February",
+    "page": "kerala.html"
+  },
+  {
+    "id": "rajasthan",
+    "name": "Rajasthan",
+    "title": "Land of Kings",
+    "description": "Palaces, forts, and deserts showcase the royal heritage of Rajasthan.",
+    "image": "https://indiatravel.com/wp-content/uploads/2025/03/Rajasthan-Tour-India-Tour-and-India-Travel.webp",
+    "attractions": ["Amber Fort", "City Palace", "Mehrangarh Fort", "Lake Pichola", "Jaisalmer Fort", "Pushkar"],
+    "bestTime": "October to March",
+    "page": "rajasthan.html"
+  },
+  {
+    "id": "ladakh",
+    "name": "Ladakh",
+    "title": "The Last Frontier",
+    "description": "High-altitude deserts, monasteries, and stunning landscapes in Ladakh.",
+    "image": "https://indiatravel.com/wp-content/uploads/2025/03/Ladakh-Tour-India-Tour-India-Travel.webp",
+    "attractions": ["Pangong Lake", "Nubra Valley", "Thiksey Monastery", "Leh Palace", "Magnetic Hill"],
+    "bestTime": "June to September",
+    "page": "ladakh.html"
+  },
+  {
+    "id": "karnataka",
+    "name": "Karnataka",
+    "title": "Cultural Hub",
+    "description": "Temples, wildlife, and coffee plantations in the heart of South India.",
+    "image": "https://indiatravel.com/wp-content/uploads/2025/03/Karnataka-Tour-India-Tour-India-Travel.webp",
+    "attractions": ["Mysore Palace", "Hampi Ruins", "Coorg Hill Station", "Chikmagalur", "Bannerghatta Safari"],
+    "bestTime": "October to February",
+    "page": "karnataka.html"
+  },
+  {
+    "id": "meghalaya",
+    "name": "Meghalaya",
+    "title": "Scotland of the East",
+    "description": "Living root bridges, waterfalls, and misty hills in Northeast India.",
+    "image": "https://indiatravel.com/wp-content/uploads/2025/07/Meghalaya-Tour-packages-India-travel.webp",
+    "attractions": ["Living Root Bridges", "Cherrapunji", "Mawsmai Cave", "Elephant Falls", "Nohkalikai Falls"],
+    "bestTime": "October to May",
+    "page": "meghalaya.html"
+  }
+]
