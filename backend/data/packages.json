@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Golden Triangle Tour",
+    "description": "Delhi → Agra → Jaipur | 7 Days | Cultural Heritage",
+    "price": 45000,
+    "duration": "7 Days",
+    "image": "https://indiatravel.com/wp-content/uploads/2025/03/Golden-Triangle-Tour.webp"
+  },
+  {
+    "id": 2,
+    "name": "Kerala Backwaters",
+    "description": "Houseboat stay, Ayurveda, Nature | 5 Days | Relaxation",
+    "price": 35000,
+    "duration": "5 Days",
+    "image": "https://indiatravel.com/wp-content/uploads/2025/03/Kerala-Tour-India-Tour-India-Travel.webp"
+  },
+  {
+    "id": 3,
+    "name": "Ladakh Adventure",
+    "description": "Pangong Lake, Nubra Valley | 8 Days | High Altitude",
+    "price": 55000,
+    "duration": "8 Days",
+    "image": "https://indiatravel.com/wp-content/uploads/2025/03/Ladakh-Tour-India-Tour-India-Travel.webp"
+  }
+]

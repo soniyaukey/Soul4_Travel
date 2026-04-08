@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2026-04-01T04:46:13.551Z",
+    "name": "indumathi",
+    "email": "indu@gmail.com",
+    "phone": "1234567895",
+    "destination": "kerala",
+    "message": "i am bangalore like to go for kerala"
+  },
+  {
+    "timestamp": "2026-04-01T04:53:08.104Z",
+    "name": "tom",
+    "email": "tom123@gmail.com",
+    "phone": "3625149871",
+    "destination": "delhi",
+    "message": "hello"
+  },
+  {
+    "timestamp": "2026-04-01T05:00:20.833Z",
+    "name": "indumathi",
+    "email": "indu@gmail.com",
+    "phone": "1234567895",
+    "destination": "karnataka",
+    "message": "hi"
+  },
+  {
+    "timestamp": "2026-04-01T05:08:05.318Z",
+    "name": "neha mannavan",
+    "email": "neha@gmail.com",
+    "phone": "1265873190",
+    "destination": "delhi",
+    "message": "hey"
+  },
+  {
+    "timestamp": "2026-04-06T04:57:18.300Z",
+    "name": "soni",
+    "email": "soni123@gmail.com",
+    "phone": "2457896314",
+    "destination": "meghalaya",
+    "message": "nice"
+  },
+  {
+    "timestamp": "2026-04-07T05:01:36.075Z",
+    "name": "soniya",
+    "email": "soniya123@gmail.com",
+    "phone": "7536982415",
+    "destination": "delhi",
+    "message": "hello"
+  },
+  {
+    "timestamp": "2026-04-07T05:03:07.881Z",
+    "name": "indumathi",
+    "email": "indu123@gamil.com",
+    "phone": "7536985421",
+    "destination": "rajasthan",
+    "message": "nice to see"
+  },
+  {
+    "timestamp": "2026-04-07T05:57:00.327Z",
+    "name": "SAHANA",
+    "email": "sanhana123@gmail.com",
+    "phone": "7412536981",
+    "destination": "rajasthan",
+    "message": "welcome to the trip"
+  }
+]

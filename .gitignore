@@ -1,0 +1,11 @@
+node_modules/
+npm-debug.log
+yarn-error.log
+.DS_Store
+.env
+.nyc_output
+coverage
+*.log
+backend/node_modules/
+public/node_modules/
+
